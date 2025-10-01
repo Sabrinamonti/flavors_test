@@ -1,0 +1,3 @@
+#include "Release.xcconfig"
+
+#include "../Runner/Configs/Tigo-Release.xcconfig"

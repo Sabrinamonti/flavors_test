@@ -1,0 +1,3 @@
+#include "Debug.xcconfig"
+
+#include "../Runner/Configs/Tigo-Debug.xcconfig"

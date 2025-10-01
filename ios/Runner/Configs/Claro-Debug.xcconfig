@@ -1,0 +1,3 @@
+FLAVOR_NAME=claro
+APP_DISPLAY_NAME=ClaroApp
+PRODUCT_BUNDLE_IDENTIFIER=com.tuempresa.claro
